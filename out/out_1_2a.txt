@@ -1,0 +1,169 @@
+product :citrus fruit
+product :semi-finished bread
+product :margarine
+product :ready soups
+product :tropical fruit
+product :whole milk
+product :cream cheese 
+product :meat spreads
+product :other vegetables
+product :butter
+product :rolls/buns
+product :UHT-milk
+product :bottled beer
+product :liquor (appetizer)
+product :cereals
+product :chocolate
+product :curd
+product :flour
+product :dishes
+product :beef
+product :soda
+product :sugar
+product :specialty bar
+product :processed cheese
+product :root vegetables
+product :sweet spreads
+product :candy
+product :bathroom cleaner
+product :canned beer
+product :brown bread
+product :shopping bags
+product :hamburger meat
+product :spices
+product :whipped/sour cream
+product :misc. beverages
+product :cat food
+product :ham
+product :turkey
+product :ice cream
+product :seasonal products
+product :red/blush wine
+product :frozen potato products
+product :specialty fat
+product :sparkling wine
+product :salt
+product :canned vegetables
+product :herbs
+product :photo/film
+product :pasta
+product :cling film/bags
+product :fish
+product :canned fruit
+product :honey
+product :snack products
+product :specialty cheese
+product :dog food
+product :prosecco
+product :frozen fish
+product :make up remover
+product :female sanitary products
+product :cookware
+product :house keeping products
+product :potato products
+product :liquor
+product :pet care
+product :rum
+product :sauces
+product :soap
+product :hair spray
+product :instant coffee
+product :roll products 
+product :mayonnaise
+product :rubbing alcohol
+product :baby cosmetics
+product :organic products
+product :nut snack
+product :kitchen towels
+product :frozen chicken
+product :ketchup
+product :jam
+product :decalcifier
+product :nuts/prunes
+product :liqueur
+product :organic sausage
+product :cream
+product :toilet cleaner
+product :baby food
+product :tidbits
+product :bags
+product :cooking chocolate
+product :kitchen utensil
+product :preservation products
+product :yogurt
+product :coffee
+product :pip fruit
+product :condensed milk
+product :long life bakery product
+product :rice
+product :abrasive cleaner
+product :pot plants
+product :white bread
+product :bottled water
+product :frankfurter
+product :chicken
+product :fruit/vegetable juice
+product :newspapers
+product :packaged fruit/vegetables
+product :butter milk
+product :pastry
+product :detergent
+product :frozen dessert
+product :salty snack
+product :waffles
+product :sausage
+product :beverages
+product :hygiene articles
+product :napkins
+product :pork
+product :berries
+product :artif. sweetener
+product :grapes
+product :dessert
+product :zwieback
+product :domestic eggs
+product :spread cheese
+product :hard cheese
+product :baking powder
+product :pickled vegetables
+product :oil
+product :chewing gum
+product :chocolate marshmallow
+product :frozen vegetables
+product :canned fish
+product :curd cheese
+product :specialty chocolate
+product :candles
+product :flower (seeds)
+product :frozen meals
+product :onions
+product :white wine
+product :brandy
+product :sliced cheese
+product :softener
+product :male cosmetics
+product :Instant food products
+product :soft cheese
+product :dental care
+product :popcorn
+product :cake bar
+product :flower soil/fertilizer
+product :finished products
+product :cocoa drinks
+product :cleaner
+product :dish cleaner
+product :meat
+product :tea
+product :mustard
+product :skin care
+product :soups
+product :salad dressing
+product :vinegar
+product :syrup
+product :liver loaf
+product :light bulbs
+product :specialty vegetables
+product :pudding powder
+product :whisky
+product :frozen fruits
+product :sound storage medium
